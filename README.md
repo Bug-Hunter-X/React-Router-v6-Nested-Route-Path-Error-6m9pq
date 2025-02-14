@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when using nested routes in React Router v6. The error arises when a nested route attempts to define a path prop while its parent also has a path prop. This is invalid in React Router v6.  The solution shows how to correctly structure nested routes to avoid this issue.
